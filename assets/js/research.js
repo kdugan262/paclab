@@ -4,9 +4,9 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Life events sometimes alter the trajectory of personality development: Effect sizes for 25 life events estimated using a large, frequently assessed sample",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Dugan, K. A., Vogt, R. L., Zheng, A., Gillath, O., Deboeck, P. R., Fraley, R. C., & Briley, D. A.",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2020,
