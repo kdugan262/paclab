@@ -4,9 +4,9 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "Life events sometimes alter the trajectory of personality development: Effect sizes for 25 life events estimated using a large, frequently assessed sample",
+    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
     authors:
-      "Dugan, K. A., Vogt, R. L., Zheng, A., Gillath, O., Deboeck, P. R., Fraley, R. C., & Briley, D. A.",
+      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2020,
@@ -112,10 +112,11 @@ const research = [
 
   {
     title:
-      "Changes in global and relationship-specific attachment working models",
-    authors: "Dugan, K. A., Fraley, R. C., Gillath, O., & Deboeck, P. R.",
+      "Unsupervised Learning for Intrinsic Image Decomposition From a Single Image",
+    authors: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng",
     conferences:
-    researchYr: 2022,
+      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    researchYr: 2020,
     citebox: "popup7",
     image: "assets/images/research-page/imageDecomposition.png",
     citation: {
@@ -123,16 +124,17 @@ const research = [
         "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
     },
     abstract:
-      "Attachment theorists suggest that people construct a number of distinct working models throughout life. People develop global working models, which reflect their expectations and beliefs concerning relationships in general, as well as relationship-specific working models of close others—their mothers, fathers, romantic partners, and friends. The present research investigated the interplay of these different working models over time. We analyzed longitudinal data collected from 4,904 adults (mean age = 35.24 years; SD = 11.63) who completed between 3 and 24 online survey assessments (median test–retest interval = 35 days). Using latent growth curve modeling, we examined the associations among both long-term changes and short-term fluctuations in participants’ working models. Our findings suggest that different working models not only change together over the long run, but also exhibit co-occurring, short-term fluctuations. This was true concerning the associations between global and relationship-specific models as well as among different relationship-specific models.",
+      "This is currently left empty and this can be considered as a dummy data 7",
     absbox: "absPopup7",
   },
   {
     title:
-      "Dismissing attachment and global and daily indicators of subjective well-being: An experience sampling approach",
+      "Forward and Backward Information Retention for Accurate Binary Neural Networks",
     authors:
-      "Dugan, K. A., Khan, F., & Fraley, R. C.",
+      "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan",
     conferences:
-    researchYr: 2022,
+      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    researchYr: 2020,
     citebox: "popup8",
     image: "assets/images/research-page/neuralNetworks.jpg",
     citation: {
@@ -140,7 +142,7 @@ const research = [
         "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
     },
     abstract:
-      "The present research examined whether a dismissing attachment style (i.e., being high in attachment avoidance and low in attachment anxiety) is a risk factor for low subjective well-being (SWB). Specifically, we examined the associations between dismissing attachment and two indicators of SWB: global life satisfaction and daily affect. Self-reports of attachment and overall life satisfaction were collected from 257 adults at an initial lab session. Afterward, experience sampling methodology was used to gather repeated measures of positive and negative affect, as well as social context, from the sample for 8 days. Our findings indicate that, on average, dismissing people reported fairly modest levels of overall life satisfaction. Moreover, they experienced relatively low levels of both negative affect and positive affect across the 8-day study period. Overall, our results suggest that dismissing people have a “muted” or dull emotional life.",
+      "This is currently left empty and this can be considered as a dummy data 8",
     absbox: "absPopup8",
   },
 ];
